@@ -1,5 +1,5 @@
 {
-  "name": "html5-css-boilerplate",
+  "name": "congnitive-distortions",
   "version": "0.1.0",
   "description": "HTML5/CSS Boilerplate with HTMLHint and StyleLint",
   "repository": {
@@ -15,6 +15,6 @@
     "stylelint-scss": "^4.4.0",
     "surge": "^0.23.1"
   },
-  "author": "Nikita Mikhaylov",
+  "author": "Anton Semenov",
   "license": "ISC"
 }
